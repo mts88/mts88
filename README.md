@@ -2,7 +2,7 @@
 
 ## **Francesca Motisi (@mts88) 👋**
 
-Software Engineer
+Software Architect
 
 [![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=E95420)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)](https://www.typescriptlang.org/)
