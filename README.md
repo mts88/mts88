@@ -5,7 +5,7 @@
 Software Architect
 
 [![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=E95420)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=9cf)](http://golang.org/)
+[![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=7fd5ea)](http://golang.org/)
 [![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)](https://angular.io/)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)](https://code.visualstudio.com/)
