@@ -2,7 +2,7 @@
 
 ## **Francesca Motisi (@mts88) 👋**
 
-Software Architect | WTM Ambassador
+Software Architect | WTM Ambassador | TDD Advocate
 
 [![](https://img.shields.io/badge/mac%20os-informational?style=flat&logo=apple&logoColor=white&color=black)](https://www.apple.com/it/mac/)
 [![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)](https://www.typescriptlang.org/)
